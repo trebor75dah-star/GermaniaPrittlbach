@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-10-12T10:14:46.333979+00:00",
+  "teams": [
+    {
+      "name": "Luftgewehr 1",
+      "url": "https://bundesliga.dsb.de/luftgewehr/1-bl-sued",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftgewehr 2",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/000bssb?sel_group_id=7&sel_discipline_id=1&sel_class_id=4&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftgewehr 3",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/407?sel_group_id=72&sel_discipline_id=1&sel_class_id=1&sel_list_type=competitionSchedule&sel_turn_date=&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftgewehr 4",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/407?sel_group_id=72&sel_discipline_id=1&sel_class_id=14&sel_list_type=competitionSchedule&sel_turn_date=&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftgewehr 5",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/407?sel_group_id=72&sel_discipline_id=1&sel_class_id=32&sel_list_type=competitionSchedule&sel_turn_date=&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftpistole 1",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/407?sel_group_id=74&sel_discipline_id=2&sel_class_id=6&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    },
+    {
+      "name": "Luftpistole 2",
+      "url": "https://www.rwk-onlinemelder.de/online/listen/407?sel_group_id=74&sel_discipline_id=2&sel_class_id=7&showCombined=0",
+      "source_reachable": true,
+      "results": null,
+      "standing": null,
+      "updated_at": "2026-10-12T10:14:46.333979+00:00"
+    }
+  ],
+  "note": "No structured match scores until a licensed/validated provider adapter is available."
+}
