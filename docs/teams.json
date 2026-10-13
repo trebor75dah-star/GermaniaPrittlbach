@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T05:43:52.400122+00:00",
+  "updated_at": "2026-10-13T06:10:01.598224+00:00",
   "teams": [
     {
       "name": "Luftgewehr 1",
@@ -7,7 +7,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftgewehr 2",
@@ -15,7 +15,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftgewehr 3",
@@ -23,7 +23,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftgewehr 4",
@@ -31,7 +31,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftgewehr 5",
@@ -39,7 +39,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftpistole 1",
@@ -47,7 +47,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     },
     {
       "name": "Luftpistole 2",
@@ -55,7 +55,7 @@
       "source_reachable": true,
       "results": null,
       "standing": null,
-      "updated_at": "2026-10-13T05:43:52.400122+00:00"
+      "updated_at": "2026-10-13T06:10:01.598224+00:00"
     }
   ],
   "note": "No structured match scores until a licensed/validated provider adapter is available."
